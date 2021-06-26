@@ -1,4 +1,4 @@
-![](public/images/ss.png)
+![](./public/images/ss.png)
 
 # Getting Started with Create React App
 
